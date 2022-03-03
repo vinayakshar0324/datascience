@@ -1,0 +1,71 @@
+linux command
+
+uname
+
+uname -a
+
+manual for uname ------ man uname
+
+uptime
+
+cd 
+
+pwd
+
+cd .. // one directory back
+
+mkdir
+
+ls
+
+ls -l
+
+Asliasing
+
+alias 
+
+date 
+
+cal
+
+w - how many users are log in to the system
+
+whoami
+
+whereis
+
+man whereis
+
+mkdir
+
+rm 
+
+rm -r //recursivesly delete
+
+touch 
+
+history
+
+history > onemore.txt
+
+cat onemore.txt
+
+| piping 
+
+vim 
+
+nano
+
+read
+write
+execute
+
+x - 1
+r - 4
+w - 2
+chmod 775 filename
+
+
+
+
+
